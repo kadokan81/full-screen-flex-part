@@ -181,7 +181,7 @@ html {
 		/* процент картинки */
 
 		position: relative;
-		flex: 0 0 calc(((100vw - 40px) * 0.6) + 20);
+		flex: 0 0 calc(((100vw - 40px) * 0.6) + 20px);
 		transform: translate(-100%, 0px);
 		padding-bottom: 45.5%;
 	}
